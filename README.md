@@ -1,1 +1,1 @@
-# rubyclass this my ruby class repository
+# rubyclass - this is my ruby class repository
